@@ -1,0 +1,9 @@
+{
+  "name": "gatsby-theme-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "gatsby": "^3.3.0"
+  }
+}

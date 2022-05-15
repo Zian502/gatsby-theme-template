@@ -1,0 +1,13 @@
+{
+  "name": "gatsby-theme-template",
+  "private": true,
+  "version": "1.0.0",
+  "license": "0BSD",
+  "scripts": {
+    "build": "yarn workspace example build"
+  },
+  "workspaces": [
+    "gatsby-theme-template",
+    "example"
+  ]
+}
